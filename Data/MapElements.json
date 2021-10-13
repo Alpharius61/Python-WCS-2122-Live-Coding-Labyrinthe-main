@@ -1,0 +1,37 @@
+{
+    " " : {
+        "Symbol" : " ",
+        "Foreground" : "WHITE",
+        "Background" : "BLACK",
+        "Name" : "sol",
+        "CanWalk" : true
+    },
+    "*" : {
+        "Symbol" : "░",
+        "Foreground" : "BLACK",
+        "Background" : "WHITE",
+        "Name" : "mur",
+        "CanWalk" : false
+    },
+    "E" : {
+        "Symbol" : " ",
+        "Foreground" : "WHITE",
+        "Background" : "BLACK",
+        "Name" : "sol",
+        "CanWalk" : true
+    },
+    "S" : {
+        "Symbol" : "◘",
+        "Foreground" : "BLUE",
+        "Background" : "WHITE",
+        "Name" : "sortie",
+        "CanWalk" : true
+    },
+    "T" : {
+        "Symbol" : "♣",
+        "Foreground" : "GREEN",
+        "Background" : "BLACK",
+        "Name" : "arbre",
+        "CanWalk" : false
+    }
+}
